@@ -19,3 +19,4 @@ Anforderungen
     Falls sich der aktuelle Zeitpunkt außerhalb der Öffnungszeiten des Parkhauses befindet, muss das System die Schranke geschlossen halten
     Das System muss den aktuellen Kassenstand kennen
     Das System muss die Höhe der eingenommenen Parkgebühren tagesgenau abspeichern
+    x

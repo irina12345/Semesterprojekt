@@ -29,3 +29,4 @@ Die Digitalisierung des Parkhauses ist in Teilen disruptiv, da die vorher vorhan
 Dieser Personalabbau erfordert einen Kommunikationsplan mit den Arbeitnehmern. 
 
 Damit das digitalisierte Parkhaus dem Kunden einen Vorteil bringt, muss es möglichst benutzerfreundlich sein --> Kommunikationsplan mit den Entwicklern
+x
