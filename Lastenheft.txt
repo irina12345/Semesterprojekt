@@ -1,0 +1,21 @@
+IST-Analyse ist bereits in Aufgabenstellung enthalten.
+
+
+Anforderungen
+
+    Das System muss die Anzahl der Parkplätze im Parkhaus kennen
+    Das System muas die Anzahl geparkter Autos kennen
+    Das System muss aus diesen beiden Zahlen die noch verfügbaren Plätze ermitteln können
+    Falls kein freier Platz mehr, muss das System das Parkhaus geschlossen halten
+    Falls mindestens ein freier Platz und der Schrankenknopf gedrückt wird, muss das System das Parkticket an den Autofahrer ausgeben
+    Wenn das Parkticket entnommen wurde muss das System die Schranke öffnen
+    Falls Ticket in System eingegeben wird muss das Ticket bezahlt werden
+    Das System muss die Parkdauer zu jedem Ticket kennen
+    Das System muss auf Basis der Parkdauer die Gebühren berechnen
+    Falls das Ticket komplett bezahlt wird, muss das System die Schranke öffnen // Bezahlung erfolgt direkt an der Ausfahrtsschranke
+    Falls das System einen Notfall registriert, muss das System die Schranke öffnen
+    Das System führt das Auto zu dem nächstgelegenen Parkplatz
+    Das System kennt die Öffnungszeiten des Parkhauses
+    Falls sich der aktuelle Zeitpunkt außerhalb der Öffnungszeiten des Parkhauses befindet, muss das System die Schranke geschlossen halten
+    Das System muss den aktuellen Kassenstand kennen
+    Das System muss die Höhe der eingenommenen Parkgebühren tagesgenau abspeichern
