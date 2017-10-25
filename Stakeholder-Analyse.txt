@@ -1,0 +1,31 @@
+Stakeholder:
+
+    Parkhauseigentümer (intern, aktiv)
+    Personal (intern, passiv)
+    Kunden / Autofahrer (extern, passiv)
+    Entwickler (extern, aktiv)
+
+
+Eigentümer: 
+
+    Digitalisierung spart Arbeitsplätze --> effizienter
+    keine menschlichen Fehler mehr --> produktiver
+    keine krankheitsbedingten Ausfälle mehr --> produktiver
+
+
+Personal
+
+    hat von nun an hauptsächlich überwachende und instandhaltende Tätigkeiten --> angenehmer
+
+
+Kunden
+
+    Interaktion mit Parkhaus von nun an ohne Menschen  --> mögl. schwieriger
+    weniger Personal bedeutet u.U. geringere Kosten --> günstiger, angenehmer
+
+
+Die Digitalisierung des Parkhauses ist in Teilen disruptiv, da die vorher vorhandenen Rollen und das dafür nötige Personal zukünftig nicht mehr benötigt wird.
+
+Dieser Personalabbau erfordert einen Kommunikationsplan mit den Arbeitnehmern. 
+
+Damit das digitalisierte Parkhaus dem Kunden einen Vorteil bringt, muss es möglichst benutzerfreundlich sein --> Kommunikationsplan mit den Entwicklern
