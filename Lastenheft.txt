@@ -2,20 +2,19 @@ IST-Analyse ist bereits in Aufgabenstellung enthalten.
 
 
 Anforderungen
-
     Das System muss die Anzahl der Parkplätze im Parkhaus kennen
-    Das System muas die Anzahl geparkter Autos kennen
-    Das System muss aus diesen beiden Zahlen die noch verfügbaren Plätze ermitteln können
-    Falls kein freier Platz mehr, muss das System das Parkhaus geschlossen halten
-    Falls mindestens ein freier Platz und der Schrankenknopf gedrückt wird, muss das System das Parkticket an den Autofahrer ausgeben
-    Wenn das Parkticket entnommen wurde muss das System die Schranke öffnen
-    Falls Ticket in System eingegeben wird muss das Ticket bezahlt werden
+    Das System muss die Anzahl geparkter Autos kennen
+    Das  muss aus diesen beiden Zahlen die Systemnoch verfügbaren Plätze ermitteln können
+    Falls kein freier Platz mehr, muss das  das Parkhaus geschlossen haltenSystem
+    Falls mindestens ein freier Platz und der Schrankenknopf gedrückt wird, muss das  das Parkticket an den Autofahrer ausgebenSystem
+    Wenn das ParkticSystemket entnommen wurde muss das  die Schranke öffnen
+    FallSystems Ticket in  eingegeben wird muss das Ticket bezahlt werden
     Das System muss die Parkdauer zu jedem Ticket kennen
-    Das System muss auf Basis der Parkdauer die Gebühren berechnen
-    Falls das Ticket komplett bezahlt wird, muss das System die Schranke öffnen // Bezahlung erfolgt direkt an der Ausfahrtsschranke
-    Falls das System einen Notfall registriert, muss das System die Schranke öffnen
-    Das System führt das Auto zu dem nächstgelegenen Parkplatz
-    Das System kennt die Öffnungszeiten des Parkhauses
-    Falls sich der aktuelle Zeitpunkt außerhalb der Öffnungszeiten des Parkhauses befindet, muss das System die Schranke geschlossen halten
+    Das  muss auf Basis der Parkdauer die Gebühren beSystemrechnen
+    Falls das Ticket komplett bezahlt wird, muss das  die Schranke öffnen // Bezahlung erfolgt direkt an der AusfahrtssSystemchrankeSystem
+    FallSystems das  einen Notfall registriert, muss das  die Schranke öffnen
+    Das System muss das Auto zu dem nächstgelegenen Parkplatz führen
+    Das  muss die Öffnungszeiten des Parkhauses kennenSystem
+    Falls sich der aktuelle Zeitpunkt außerhalb der Öffnungszeiten des Parkhauses befindet, muss das  die Schranke gescSystemhlossen halten
     Das System muss den aktuellen Kassenstand kennen
-    Das System muss die Höhe der eingenommenen Parkgebühren tagesgenau abspeichern
+    Das  muss die Höhe der eingenommenen Parkgebühren tagesgenau abspeichern
